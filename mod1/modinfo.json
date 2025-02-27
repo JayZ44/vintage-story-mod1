@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "name": "MyFirstMod",
+  "modid": "myfirstmod",
+  "version": "1.0.0",
+  "description": "My first Vintage Story mod",
+  "authors": ["YourName"],
+  "dependencies": {
+    "game": "1.18.0"
+  }
+}
